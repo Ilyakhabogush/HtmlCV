@@ -1,0 +1,74 @@
+h1
+    {
+        font-family: 'Times New Roman', Times, serif;
+        color:rgb(20, 18, 18);
+        text-align: center;
+    }   
+.aboutMe
+    {
+        font-size: medium;
+        font-family: 'Times New Roman', Times, serif;
+        width: 300px;
+        float: left;
+        transition: 3s;
+        border-radius: 20px;
+    }
+.aboutMe:hover
+    {
+        background-color: blueviolet;
+    }
+h3  
+    {
+        font-family: 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+.image
+    {
+        float:right;
+        text-align: center;
+        
+    }
+.myVk
+    {
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        width: 100px;
+    }
+.myInstagram
+    {
+        font-family: 'Times New Roman', Times, serif;
+        text-align: left;
+        width: 300px;
+    }
+.firstDiv
+    {
+        height: 250px;
+    }
+.secondDiv
+    {
+        height: 60px;
+    }
+.button
+    {
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        font-style: oblique;
+        background-color: rgb(13, 255, 0);
+        background-size: 50px;
+        transition: 3s;
+        width: 60px;
+    }
+.button:hover
+    {
+        background-color: rgb(238, 105, 10);
+        background-size: 25px;
+        border-radius: 40px;
+    }
+.body1
+    {
+        background-color: rgb(241, 246, 244);
+    }
+.body2
+    {
+        background-color: blue;
+    }
